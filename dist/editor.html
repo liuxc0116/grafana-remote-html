@@ -1,0 +1,12 @@
+<div class="gf-form-group">
+    <div class="gf-form-inline">
+        <div class="gf-form" style="width:100%;">
+            <span class="gf-form-label">URL INFO</span>
+            <span class="gf-form-select-wrapper">
+                <select class="gf-form-input" ng-model="ctrl.panel.method" ng-options="f for f in ['POST','GET']"></select>
+            </span>
+            <input class="gf-form-input" placeholder="url" ng-model="ctrl.panel.url"  style="width:80%" ng-change="ctrl.render()"
+                   ng-model-onblur />
+        </div>
+    </div>
+</div>

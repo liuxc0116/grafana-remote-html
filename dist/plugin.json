@@ -1,0 +1,17 @@
+{
+  "type": "panel",
+  "name": "Remote Html",
+  "id": "grafana-remote-html",
+
+  "info": {
+    "author": {
+      "name": "liuxc",
+      "url": "https://grafana.com"
+    },
+    "logos": {
+      "small": "img/icn-remote-html-panel.svg",
+      "large": "img/icn-remote-html-panel.svg"
+    },
+    "version": "0.0.1"
+  }
+}
