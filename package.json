@@ -1,6 +1,6 @@
 {
   "name": "grafana-remote-html",
-  "version": "0.0.q",
+  "version": "0.0.1",
   "description": "a grafana plugin that show remote html",
   "main": "module.js",
   "scripts": {
