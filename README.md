@@ -12,7 +12,7 @@ grafana-remote-html的编辑界面如下
 #安装方法
 
 
-```
+```shell
 #安装[grafana](https://grafana.com/get)
 
 cd /var/lib/grafana/plugins/
