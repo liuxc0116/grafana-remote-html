@@ -9,11 +9,11 @@ grafana-remote-html的编辑界面如下
 选择METHOD和填写URL后, grafana-remote-html会把获取的html显示在界面上
 
 
-#安装方法
+# 安装方法
 
 
 ```shell
-#安装[grafana](https://grafana.com/get)
+# 安装[grafana](https://grafana.com/get)
 
 cd /var/lib/grafana/plugins/
 git clone https://github.com/liuxc0116/grafana-remote-html.git
